@@ -10,7 +10,7 @@ public class FirstAPI {
 	public String ping()   
 	{  
 	 
-	return "OK Fine";  
+	return "OK";  
 	}  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
