@@ -10,7 +10,7 @@ public class FirstAPI {
 	public String test()   
 	{  
 	 
-	return "Oh";  
+	return "Ok";  
 	}  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
