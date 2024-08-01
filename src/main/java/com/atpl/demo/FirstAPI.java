@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class FirstAPI {
 	
-	@GetMapping("/ping") 
-	public String ping()   
+	@GetMapping("/test") 
+	public String test()   
 	{  
 	 
 	return "Oh";  
